@@ -1,6 +1,5 @@
 # DIO.Series
 Projeto de gerenciamento de séries em memória
-Projeto para gerenciamento de séries na memória.
 
 Modelei o projeto com classes de Factory, Service, Screen e as duas outras classes propostas Entitie e Repository.
 
